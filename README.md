@@ -2,7 +2,7 @@ Cryptodev
 
 
 More information at 
-[cryptodev.tech](http://www.cryptodev.tech)  
+[crypto-dev.tech](https://crypto-dev.tech)  
 
 ### Coin Specs
 <table>
