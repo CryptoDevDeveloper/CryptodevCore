@@ -1,5 +1,5 @@
 ---
-name: "cryptodev-win-3.2"
+name: "cryptodev-win-1.0.1"
 enable_cache: true
 suites:
 - "trusty"
@@ -23,7 +23,7 @@ packages:
 - "python"
 remotes:
 - "url": "https://github.com/cryptodevdeveloper/CryptodevCore.git"
-  "dir": "cryptodev"
+  "dir": "CryptodevCore"
 files: []
 script: |
   WRAP_DIR=$HOME/wrapped
